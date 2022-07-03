@@ -7,6 +7,7 @@ max_val = 6
 roll = 1
 
 while number_of_dice > 0:
+    print("- - - - - - - - - ")
     print("Roll #", roll)
     print("The values are :")
 #Printing the randomly generated variables
